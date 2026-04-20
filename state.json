@@ -1,5 +1,29 @@
 {
-  "jobs_seen": [],
-  "last_run": "2026-04-20T21:50:44.725285",
-  "startups": {}
+  "jobs_seen": [
+    "https://fyld.ai/contractors",
+    "https://mainfyld.applytojob.com/apply",
+    "https://workingreen.jobs/offers/senior-machine-learning-engineer-i-at-icon-remote",
+    "https://www.facebook.com/Mainfyld/videos/do-you-want-to-join-our-teamwe-are-looking-for-a-data-engineer-with-azure-hybrid/1475877090808530/",
+    "https://www.fyld.pt/job-apply/2e84dc51a8/data-engineer-azure/",
+    "https://www.glassdoor.com.au/Job/denver-co-zero-homes-jobs-SRCH_IL.0,9_IC1148170_KO10,20.htm",
+    "https://www.glassdoor.com/Job/lisbon-fyld-jobs-SRCH_IL.0,6_IC3192045_KO7,11.htm",
+    "https://www.indeed.com/q-ai-ml-engineer-l-longmont,-co-jobs.html",
+    "https://www.indeed.com/q-mobile-application-developer-l-denver,-co-jobs.html",
+    "https://www.ziprecruiter.com/Jobs/Beyond-Zero-Emissions"
+  ],
+  "last_run": "2026-04-20T21:53:59.611460",
+  "startups": {
+    "fyld": {
+      "first_seen": "2026-04-20T21:53:59.611444",
+      "last_seen": "2026-04-20T21:53:59.611451",
+      "name": "FYLD",
+      "source_url": "https://www.finsmes.com/2026/02/fyld-raises-41m-in-series-b-funding.html#google_vignette"
+    },
+    "zero homes": {
+      "first_seen": "2026-04-20T21:53:54.422018",
+      "last_seen": "2026-04-20T21:53:54.422025",
+      "name": "Zero Homes",
+      "source_url": "https://www.finsmes.com/2026/02/zero-homes-raises-16-8m-in-series-a-funding.html"
+    }
+  }
 }
