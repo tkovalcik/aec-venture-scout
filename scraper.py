@@ -69,8 +69,27 @@ def save_state(state: dict) -> None:
     STATE_FILE.write_text(json.dumps(state, indent=2, sort_keys=True))
 
 
+NAME_FROM_HEADLINE = re.compile(
+    r"^(.+?)\s+(?:Raises|Secures|Closes|Announces|Lands|Receives|Gets|Scores|Nets)\b",
+    re.IGNORECASE,
+)
+FUNDING_HEADLINE = re.compile(
+    r"(raises?|secures?|closes?|announces?|lands?|receives?|funding|series\s+[a-e]\b|seed\b|\$\s?\d)",
+    re.IGNORECASE,
+)
+DATE_HEADLINE = re.compile(
+    r"^(january|february|march|april|may|june|july|august|september|october|november|december)\s+\d{1,2},\s*\d{4}$",
+    re.IGNORECASE,
+)
+
+
 def scrape_cemex() -> list[dict]:
-    """Scrape Cemex Ventures homepage for recent deals / portfolio mentions."""
+    """Scrape the Cemex Ventures homepage 'Recent deals' section.
+
+    Deal headlines appear as <h4> tags like "Zero Homes Raises $16.8M in
+    Series A Funding", preceded by a date <h4> and accompanied by a link
+    to the source article in the surrounding container.
+    """
     log(f"Fetching {CEMEX_URL}")
     resp = requests.get(CEMEX_URL, headers={"User-Agent": USER_AGENT}, timeout=30)
     resp.raise_for_status()
@@ -79,51 +98,51 @@ def scrape_cemex() -> list[dict]:
     findings: list[dict] = []
     seen_names: set[str] = set()
 
-    deal_section = None
-    for heading in soup.find_all(["h1", "h2", "h3", "h4"]):
-        text = heading.get_text(strip=True).lower()
-        if "recent deal" in text or "latest deal" in text or "portfolio" in text or "news" in text:
-            deal_section = heading.find_parent()
-            break
-
-    search_scope = deal_section if deal_section else soup
-
-    for article in search_scope.find_all(["article", "div", "li"], limit=400):
-        text = article.get_text(" ", strip=True)
-        if not text or len(text) < 20 or len(text) > 800:
+    for h4 in soup.find_all("h4"):
+        title = h4.get_text(strip=True)
+        if not title or DATE_HEADLINE.match(title):
+            continue
+        if not FUNDING_HEADLINE.search(title):
             continue
 
-        funding_hit = re.search(
-            r"(raised|secures?|closes?|announces?|funding|seed|series\s+[a-e]|million|\$\d)",
-            text,
-            re.IGNORECASE,
-        )
-        if not funding_hit:
+        m = NAME_FROM_HEADLINE.match(title)
+        if not m:
+            continue
+        name = m.group(1).strip().strip('"\u201c\u201d')
+        if not (2 <= len(name) <= 60):
             continue
 
-        link = article.find("a", href=True)
-        if not link:
-            continue
-
-        name = link.get_text(strip=True)
-        if not name or len(name) < 2 or len(name) > 80:
-            continue
-        if name.lower() in {"read more", "learn more", "see more", "view all", "news"}:
-            continue
-
-        key = name.strip().lower()
+        key = name.lower()
         if key in seen_names:
             continue
         seen_names.add(key)
 
-        href = link["href"]
-        if href.startswith("/"):
-            href = CEMEX_URL.rstrip("/") + href
+        prev_h4 = h4.find_previous("h4")
+        date_str = prev_h4.get_text(strip=True) if prev_h4 and DATE_HEADLINE.match(prev_h4.get_text(strip=True)) else ""
+
+        source_url = ""
+        scope = h4
+        for _ in range(6):
+            scope = scope.find_parent() if scope else None
+            if not scope:
+                break
+            for a in scope.find_all("a", href=True):
+                href = a["href"]
+                if "cemexventures.com" in href:
+                    continue
+                if href.startswith("#") or href.startswith("mailto:"):
+                    continue
+                source_url = href
+                break
+            if source_url:
+                break
 
         findings.append({
-            "name": name.strip(),
-            "summary": text[:400],
-            "source_url": href,
+            "name": name,
+            "headline": title,
+            "date": date_str,
+            "summary": f"{date_str}: {title}" if date_str else title,
+            "source_url": source_url or CEMEX_URL,
         })
 
     log(f"Cemex scrape found {len(findings)} candidate startups")
