@@ -16,19 +16,21 @@
     "https://www.indeed.com/q-ai-ml-engineer-l-longmont,-co-jobs.html",
     "https://www.indeed.com/q-mobile-application-developer-l-denver,-co-jobs.html",
     "https://www.instagram.com/p/DTdV-2ogtOY/",
-    "https://www.ziprecruiter.com/Jobs/Beyond-Zero-Emissions"
+    "https://www.instagram.com/p/DTvXgjwCnmD/",
+    "https://www.ziprecruiter.com/Jobs/Beyond-Zero-Emissions",
+    "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-04-22T15:15:37.720174",
+  "last_run": "2026-04-23T15:55:03.972528",
   "startups": {
     "fyld": {
       "first_seen": "2026-04-20T21:53:59.611444",
-      "last_seen": "2026-04-22T15:15:37.720163",
+      "last_seen": "2026-04-23T15:55:03.972514",
       "name": "FYLD",
       "source_url": "https://www.finsmes.com/2026/02/fyld-raises-41m-in-series-b-funding.html#google_vignette"
     },
     "zero homes": {
       "first_seen": "2026-04-20T21:53:54.422018",
-      "last_seen": "2026-04-22T15:15:34.139204",
+      "last_seen": "2026-04-23T15:54:47.233599",
       "name": "Zero Homes",
       "source_url": "https://www.finsmes.com/2026/02/zero-homes-raises-16-8m-in-series-a-funding.html"
     }
