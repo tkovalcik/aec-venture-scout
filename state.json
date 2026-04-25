@@ -1,5 +1,6 @@
 {
   "jobs_seen": [
+    "https://builtin.com/job/data-engineer-azure/6197459",
     "https://builtin.com/job/data-scientist/4460856",
     "https://fyld.ai/contractors",
     "https://fyld.ai/field-workers",
@@ -14,23 +15,25 @@
     "https://www.glassdoor.com.au/Job/denver-co-zero-homes-jobs-SRCH_IL.0,9_IC1148170_KO10,20.htm",
     "https://www.glassdoor.com/Job/lisbon-fyld-jobs-SRCH_IL.0,6_IC3192045_KO7,11.htm",
     "https://www.indeed.com/q-ai-ml-engineer-l-longmont,-co-jobs.html",
+    "https://www.indeed.com/q-cloud-l-denver,-co-jobs.html",
     "https://www.indeed.com/q-mobile-application-developer-l-denver,-co-jobs.html",
+    "https://www.indeed.com/q-prompt-engineer-$200k-jobs.html",
     "https://www.instagram.com/p/DTdV-2ogtOY/",
     "https://www.instagram.com/p/DTvXgjwCnmD/",
     "https://www.ziprecruiter.com/Jobs/Beyond-Zero-Emissions",
     "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-04-24T15:10:19.734316",
+  "last_run": "2026-04-25T14:42:35.452858",
   "startups": {
     "fyld": {
       "first_seen": "2026-04-20T21:53:59.611444",
-      "last_seen": "2026-04-23T15:55:03.972514",
+      "last_seen": "2026-04-25T14:42:35.452846",
       "name": "FYLD",
       "source_url": "https://www.finsmes.com/2026/02/fyld-raises-41m-in-series-b-funding.html#google_vignette"
     },
     "zero homes": {
       "first_seen": "2026-04-20T21:53:54.422018",
-      "last_seen": "2026-04-23T15:54:47.233599",
+      "last_seen": "2026-04-25T14:42:28.168929",
       "name": "Zero Homes",
       "source_url": "https://www.finsmes.com/2026/02/zero-homes-raises-16-8m-in-series-a-funding.html"
     }
