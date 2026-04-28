@@ -1,12 +1,16 @@
 {
   "jobs_seen": [
+    "https://builtin.com/company/fyld/jobs",
     "https://builtin.com/job/data-engineer-azure/6197459",
     "https://builtin.com/job/data-scientist/4460856",
     "https://fyld.ai/contractors",
     "https://fyld.ai/field-workers",
+    "https://fyld.ai/junior-data-scientist",
+    "https://fyld.ai/junior-machine-learning-engineer",
     "https://intch.org/company/fyld",
     "https://jobright.ai/jobs/info/69dfe41ae34484770f1ab1c7?visit=senior-mts-mobile-security-engineer-jobs-in-united-states",
     "https://mainfyld.applytojob.com/apply",
+    "https://mainfyld.applytojob.com/apply/3325321554457e0c63034552430843585b401434212e7f50533e271b223a72041f7924/Data-Scientist?sid=YJPJfuO5R1tjr9slovKrieNdcmiTlhDKX3g?source=Talent.com",
     "https://workingreen.jobs/offers/robotic-engineer-at-mighty-buildings-oakland",
     "https://workingreen.jobs/offers/senior-machine-learning-engineer-i-at-icon-remote",
     "https://www.cemexventures.com/top-50-startups/fyld/",
@@ -23,14 +27,15 @@
     "https://www.indeed.com/q-prompt-engineer-$200k-jobs.html",
     "https://www.instagram.com/p/DTdV-2ogtOY/",
     "https://www.instagram.com/p/DTvXgjwCnmD/",
+    "https://www.linkedin.com/company/fyld",
     "https://www.ziprecruiter.com/Jobs/Beyond-Zero-Emissions",
     "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-04-27T15:50:13.532276",
+  "last_run": "2026-04-28T16:08:30.498275",
   "startups": {
     "fyld": {
       "first_seen": "2026-04-20T21:53:59.611444",
-      "last_seen": "2026-04-25T14:42:35.452846",
+      "last_seen": "2026-04-28T16:08:30.498257",
       "name": "FYLD",
       "source_url": "https://www.finsmes.com/2026/02/fyld-raises-41m-in-series-b-funding.html#google_vignette"
     },
