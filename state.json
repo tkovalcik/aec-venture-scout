@@ -23,6 +23,7 @@
     "https://www.cemexventures.com/top-50-startups/fyld/",
     "https://www.facebook.com/CBSSanFrancisco/posts/a-san-francisco-based-company-is-building-homes-using-an-automated-mobile-micro-/1344064154425809/",
     "https://www.facebook.com/Mainfyld/videos/do-you-want-to-join-our-teamwe-are-looking-for-a-data-engineer-with-azure-hybrid/1475877090808530/",
+    "https://www.facebook.com/Mainfyld/videos/do-you-want-to-join-our-teamwe-are-looking-for-an-angular-developer-based-with-f/1258743706360105/",
     "https://www.fyld.pt/job-apply/2e84dc51a8/data-engineer-azure/",
     "https://www.glassdoor.ca/Job/denver-co-zero-homes-jobs-SRCH_IL.0,9_IC1148170_KO10,20.htm",
     "https://www.glassdoor.com.au/Job/denver-co-zero-homes-jobs-SRCH_IL.0,9_IC1148170_KO10,20.htm",
@@ -47,11 +48,11 @@
     "https://www.ziprecruiter.com/Jobs/Mobile-Bank-Data-Scientist/-in-Boulder,CO",
     "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-05-07T16:07:19.836434",
+  "last_run": "2026-05-08T15:23:57.962666",
   "startups": {
     "fyld": {
       "first_seen": "2026-04-20T21:53:59.611444",
-      "last_seen": "2026-05-03T14:50:55.158521",
+      "last_seen": "2026-05-08T15:23:57.962650",
       "name": "FYLD",
       "source_url": "https://www.finsmes.com/2026/02/fyld-raises-41m-in-series-b-funding.html#google_vignette"
     },
