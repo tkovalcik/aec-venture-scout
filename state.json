@@ -5,6 +5,7 @@
     "https://builtin.com/company/fyld/jobs",
     "https://builtin.com/job/data-engineer-azure/6197459",
     "https://builtin.com/job/data-scientist/4460856",
+    "https://builtin.com/job/data-scientist/6196239",
     "https://climatebase.org/job/56578005/sr-software-engineer-mobile",
     "https://climatebase.org/job/71844953/senior-mobile-engineer",
     "https://fyld.ai/backend-software-engineer-django",
@@ -13,6 +14,7 @@
     "https://fyld.ai/field-workers",
     "https://fyld.ai/junior-data-scientist",
     "https://fyld.ai/junior-machine-learning-engineer",
+    "https://getlatka.com/companies/fyld.ai",
     "https://intch.org/company/fyld",
     "https://jaabz.com/jobs/149787-data-engineer-relocation-to-belgium",
     "https://jobright.ai/jobs/info/69dfe41ae34484770f1ab1c7?visit=senior-mts-mobile-security-engineer-jobs-in-united-states",
@@ -40,6 +42,8 @@
     "https://www.indeed.com/q-ai-ml-engineer-l-denver,-co-jobs.html",
     "https://www.indeed.com/q-ai-ml-engineer-l-highlands-ranch,-co-jobs.html",
     "https://www.indeed.com/q-ai-ml-engineer-l-longmont,-co-jobs.html",
+    "https://www.indeed.com/q-ai-ml-engineer-l-louisville,-co-jobs.html",
+    "https://www.indeed.com/q-algorithm-engineer-l-centennial,-co-jobs.html",
     "https://www.indeed.com/q-cloud-l-denver,-co-jobs.html",
     "https://www.indeed.com/q-easy-apply-data-engineer-jobs.html",
     "https://www.indeed.com/q-mobile-application-developer-l-denver,-co-jobs.html",
@@ -51,6 +55,7 @@
     "https://www.ivoryinnovations.org/post/2023-ivory-prize-top-25",
     "https://www.linkedin.com/company/fyld",
     "https://www.linkedin.com/in/dean-a-howard",
+    "https://www.linkedin.com/jobs/electrify-america-jobs",
     "https://www.linkedin.com/jobs/view/mba-internship-summer-2026-at-zero-homes-4390893558",
     "https://www.simplyhired.com/search?q=android+camera+engineer",
     "https://www.ziprecruiter.com/Jobs/Beyond-Zero-Emissions",
@@ -58,17 +63,17 @@
     "https://www.ziprecruiter.com/Jobs/Remote-Smart-Building/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-05-13T16:20:18.373114",
+  "last_run": "2026-05-14T16:10:32.962298",
   "startups": {
     "fyld": {
       "first_seen": "2026-04-20T21:53:59.611444",
-      "last_seen": "2026-05-13T16:20:18.373095",
+      "last_seen": "2026-05-14T16:10:32.962281",
       "name": "FYLD",
       "source_url": "https://www.finsmes.com/2026/02/fyld-raises-41m-in-series-b-funding.html#google_vignette"
     },
     "zero homes": {
       "first_seen": "2026-04-20T21:53:54.422018",
-      "last_seen": "2026-05-13T16:20:11.663055",
+      "last_seen": "2026-05-14T16:10:25.202392",
       "name": "Zero Homes",
       "source_url": "https://www.finsmes.com/2026/02/zero-homes-raises-16-8m-in-series-a-funding.html"
     }
