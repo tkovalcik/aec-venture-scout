@@ -8,6 +8,7 @@
     "https://builtin.com/job/data-scientist/6196239",
     "https://climatebase.org/job/56578005/sr-software-engineer-mobile",
     "https://climatebase.org/job/71844953/senior-mobile-engineer",
+    "https://fyld.ai/account-executive-us",
     "https://fyld.ai/backend-software-engineer-django",
     "https://fyld.ai/civil-engineers",
     "https://fyld.ai/contractors",
@@ -22,6 +23,7 @@
     "https://lensa.com/job-v1/zero-homes/remote/senior-mobile-engineer/672f48d2135b2387fa9e37f26df6f059",
     "https://mainfyld.applytojob.com/apply",
     "https://mainfyld.applytojob.com/apply/3325321554457e0c63034552430843585b401434212e7f50533e271b223a72041f7924/Data-Scientist?sid=YJPJfuO5R1tjr9slovKrieNdcmiTlhDKX3g?source=Talent.com",
+    "https://techjobsforgood.com/energy-conservation-jobs/",
     "https://tietalent.com/de/jobs/search/senior-ios-app-developer-swiftui-accessibility-first-design-on-device-machine-learning/all",
     "https://workingreen.jobs/offers/robotic-engineer-at-mighty-buildings-oakland",
     "https://workingreen.jobs/offers/senior-machine-learning-engineer-i-at-icon-remote",
@@ -57,23 +59,24 @@
     "https://www.linkedin.com/in/dean-a-howard",
     "https://www.linkedin.com/jobs/electrify-america-jobs",
     "https://www.linkedin.com/jobs/view/mba-internship-summer-2026-at-zero-homes-4390893558",
+    "https://www.phrc.psu.edu/assets/docs/Publications/2022RBDCCPapers/2022-RBDCC-Proceedings.pdf",
     "https://www.simplyhired.com/search?q=android+camera+engineer",
     "https://www.ziprecruiter.com/Jobs/Beyond-Zero-Emissions",
     "https://www.ziprecruiter.com/Jobs/Mobile-Bank-Data-Scientist/-in-Boulder,CO",
     "https://www.ziprecruiter.com/Jobs/Remote-Smart-Building/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-05-14T16:10:32.962298",
+  "last_run": "2026-05-15T16:04:06.911027",
   "startups": {
     "fyld": {
       "first_seen": "2026-04-20T21:53:59.611444",
-      "last_seen": "2026-05-14T16:10:32.962281",
+      "last_seen": "2026-05-15T16:04:06.911010",
       "name": "FYLD",
       "source_url": "https://www.finsmes.com/2026/02/fyld-raises-41m-in-series-b-funding.html#google_vignette"
     },
     "zero homes": {
       "first_seen": "2026-04-20T21:53:54.422018",
-      "last_seen": "2026-05-14T16:10:25.202392",
+      "last_seen": "2026-05-15T16:04:03.888618",
       "name": "Zero Homes",
       "source_url": "https://www.finsmes.com/2026/02/zero-homes-raises-16-8m-in-series-a-funding.html"
     }
