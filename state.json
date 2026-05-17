@@ -1,5 +1,6 @@
 {
   "jobs_seen": [
+    "https://annex93.iea-ebc.org/Data/publications/buildings-15-02929.pdf",
     "https://app.dealroom.co/companies/fyld",
     "https://be.linkedin.com/jobs/view/data-engineer-french-speaking-at-fyld-4374805344",
     "https://builtin.com/company/fyld/jobs",
@@ -66,7 +67,7 @@
     "https://www.ziprecruiter.com/Jobs/Remote-Smart-Building/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-05-16T14:57:54.296178",
+  "last_run": "2026-05-17T14:57:59.622086",
   "startups": {
     "fyld": {
       "first_seen": "2026-04-20T21:53:59.611444",
@@ -76,7 +77,7 @@
     },
     "zero homes": {
       "first_seen": "2026-04-20T21:53:54.422018",
-      "last_seen": "2026-05-15T16:04:03.888618",
+      "last_seen": "2026-05-17T14:57:56.331029",
       "name": "Zero Homes",
       "source_url": "https://www.finsmes.com/2026/02/zero-homes-raises-16-8m-in-series-a-funding.html"
     }
