@@ -3,6 +3,7 @@
     "https://annex93.iea-ebc.org/Data/publications/buildings-15-02929.pdf",
     "https://app.dealroom.co/companies/fyld",
     "https://be.linkedin.com/jobs/view/data-engineer-french-speaking-at-fyld-4374805344",
+    "https://bravotarget.ca/bravo-fyld/",
     "https://builtin.com/company/fyld/jobs",
     "https://builtin.com/job/data-engineer-azure/6197459",
     "https://builtin.com/job/data-scientist/4460856",
@@ -43,6 +44,7 @@
     "https://www.glassdoor.com/Job/denver-ml-engineer-jobs-SRCH_IL.0,6_IC1148170_KO7,18.htm",
     "https://www.glassdoor.com/Job/lisbon-fyld-jobs-SRCH_IL.0,6_IC3192045_KO7,11.htm",
     "https://www.glassdoor.com/Reviews/FYLD-AI-people-Reviews-EI_IE3816815.0,7_KH8,14.htm",
+    "https://www.indeed.com/q-ai-developer-l-englewood,-co-jobs.html",
     "https://www.indeed.com/q-ai-ml-engineer-l-aurora,-co-jobs.html",
     "https://www.indeed.com/q-ai-ml-engineer-l-broomfield,-co-jobs.html",
     "https://www.indeed.com/q-ai-ml-engineer-l-denver,-co-jobs.html",
@@ -73,17 +75,17 @@
     "https://www.ziprecruiter.com/Jobs/Remote-Smart-Building/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-05-22T16:27:02.294608",
+  "last_run": "2026-05-23T15:01:45.859951",
   "startups": {
     "fyld": {
       "first_seen": "2026-04-20T21:53:59.611444",
-      "last_seen": "2026-05-21T16:39:50.250775",
+      "last_seen": "2026-05-23T15:01:45.859933",
       "name": "FYLD",
       "source_url": "https://www.finsmes.com/2026/02/fyld-raises-41m-in-series-b-funding.html#google_vignette"
     },
     "zero homes": {
       "first_seen": "2026-04-20T21:53:54.422018",
-      "last_seen": "2026-05-22T16:26:37.101957",
+      "last_seen": "2026-05-23T15:01:42.257546",
       "name": "Zero Homes",
       "source_url": "https://www.finsmes.com/2026/02/zero-homes-raises-16-8m-in-series-a-funding.html"
     }
