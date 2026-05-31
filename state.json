@@ -35,6 +35,7 @@
     "https://workingreen.jobs/offers/senior-machine-learning-engineer-at-icon-austin-texas-united-states",
     "https://workingreen.jobs/offers/senior-machine-learning-engineer-i-at-icon-remote",
     "https://workingreen.jobs/offers/senior-mobile-engineer-at-zero-homes-denver-colorado",
+    "https://www.abb.com/global/en/news/128070/cstmr-abb-and-cosmic-use-ai-powered-robots-to-rebuild-homes-in-los-angeles-area",
     "https://www.atkinsrealis.com/en/media/trade-releases/2025/2025-06-02",
     "https://www.b2match.com/e/innovate-uk-futurebuild-connects-1/components/57916?participantFilters=%7B%22userCountryIds%22%3A%5B227%5D%7D",
     "https://www.cemexventures.com/top-50-startups/fyld/",
@@ -71,6 +72,7 @@
     "https://www.linkedin.com/in/dean-a-howard",
     "https://www.linkedin.com/jobs/electrify-america-jobs",
     "https://www.linkedin.com/jobs/view/mba-internship-summer-2026-at-zero-homes-4390893558",
+    "https://www.linkedin.com/posts/justin-holmes-8612547a_zero-homes-jobs-activity-7462927854595477504-wk5X",
     "https://www.phrc.psu.edu/assets/docs/Publications/2022RBDCCPapers/2022-RBDCC-Proceedings.pdf",
     "https://www.simplyhired.com/search?q=android+camera+engineer",
     "https://www.simplyhired.com/search?q=senior+ai+ml+engineer&l=boulder%2C+co",
@@ -79,7 +81,7 @@
     "https://www.ziprecruiter.com/Jobs/Remote-Smart-Building/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-05-30T15:08:25.380029",
+  "last_run": "2026-05-31T15:17:54.172543",
   "startups": {
     "fyld": {
       "first_seen": "2026-04-20T21:53:59.611444",
@@ -89,7 +91,7 @@
     },
     "zero homes": {
       "first_seen": "2026-04-20T21:53:54.422018",
-      "last_seen": "2026-05-30T15:08:19.982992",
+      "last_seen": "2026-05-31T15:17:50.058803",
       "name": "Zero Homes",
       "source_url": "https://www.finsmes.com/2026/02/zero-homes-raises-16-8m-in-series-a-funding.html"
     }
