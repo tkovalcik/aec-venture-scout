@@ -73,16 +73,18 @@
     "https://www.linkedin.com/jobs/electrify-america-jobs",
     "https://www.linkedin.com/jobs/view/mba-internship-summer-2026-at-zero-homes-4390893558",
     "https://www.linkedin.com/posts/justin-holmes-8612547a_zero-homes-jobs-activity-7462927854595477504-wk5X",
+    "https://www.meegle.com/en_us/topics/hvac-systems/hvac-system-for-net-zero-homes",
     "https://www.phrc.psu.edu/assets/docs/Publications/2022RBDCCPapers/2022-RBDCC-Proceedings.pdf",
     "https://www.sciencedirect.com/science/article/abs/pii/S0196890425007885",
     "https://www.simplyhired.com/search?q=android+camera+engineer",
     "https://www.simplyhired.com/search?q=senior+ai+ml+engineer&l=boulder%2C+co",
     "https://www.ziprecruiter.com/Jobs/Beyond-Zero-Emissions",
+    "https://www.ziprecruiter.com/Jobs/Greenhouse-Data-Engineer/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Mobile-Bank-Data-Scientist/-in-Boulder,CO",
     "https://www.ziprecruiter.com/Jobs/Remote-Smart-Building/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-06-09T16:31:44.277080",
+  "last_run": "2026-06-10T17:21:04.437953",
   "startups": {
     "fyld": {
       "first_seen": "2026-04-20T21:53:59.611444",
@@ -92,7 +94,7 @@
     },
     "zero homes": {
       "first_seen": "2026-04-20T21:53:54.422018",
-      "last_seen": "2026-06-04T16:54:51.462635",
+      "last_seen": "2026-06-10T17:20:49.860891",
       "name": "Zero Homes",
       "source_url": "https://www.finsmes.com/2026/02/zero-homes-raises-16-8m-in-series-a-funding.html"
     }
