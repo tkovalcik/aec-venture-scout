@@ -1,5 +1,6 @@
 {
   "jobs_seen": [
+    "https://aiuniverseexplorer.com/ai-in-construction/",
     "https://annex93.iea-ebc.org/Data/publications/buildings-15-02929.pdf",
     "https://app.dealroom.co/companies/fyld",
     "https://be.linkedin.com/jobs/view/data-engineer-french-speaking-at-fyld-4374805344",
@@ -20,6 +21,7 @@
     "https://fyld.ai/junior-machine-learning-engineer",
     "https://getlatka.com/companies/fyld.ai",
     "https://intch.org/company/fyld",
+    "https://intranet.moveisdevalor.com.br/scholarship/6oWN6m/0FE014/ai__in__risk_management.pdf",
     "https://jaabz.com/jobs/149787-data-engineer-relocation-to-belgium",
     "https://jobright.ai/jobs/info/69dfe41ae34484770f1ab1c7?visit=senior-mts-mobile-security-engineer-jobs-in-united-states",
     "https://jobright.ai/jobs/info/69dfe8064920452a85dd0428",
@@ -32,6 +34,8 @@
     "https://natural-resources.canada.ca/corporate/planning-reporting/departmental-results-reports/departmental-results-report-2020-21/2020-21-departmental-results-report",
     "https://techjobsforgood.com/energy-conservation-jobs/",
     "https://tietalent.com/de/jobs/search/senior-ios-app-developer-swiftui-accessibility-first-design-on-device-machine-learning/all",
+    "https://training.jacksonms.gov/scholarship/xTLZfV/4OK090/ai__technology__in__construction.pdf",
+    "https://uk.linkedin.com/in/bewill",
     "https://workingreen.jobs/offers/robotic-engineer-at-mighty-buildings-oakland",
     "https://workingreen.jobs/offers/senior-machine-learning-engineer-at-icon-austin-texas-united-states",
     "https://workingreen.jobs/offers/senior-machine-learning-engineer-i-at-icon-remote",
@@ -41,6 +45,11 @@
     "https://www.b2match.com/e/innovate-uk-futurebuild-connects-1/components/57916",
     "https://www.b2match.com/e/innovate-uk-futurebuild-connects-1/components/57916?participantFilters=%7B%22userCountryIds%22%3A%5B227%5D%7D",
     "https://www.cemexventures.com/top-50-startups/fyld/",
+    "https://www.enr.com/articles/63134-ai-powered-construction-risk-analysis-platform-enlaye-raises-5-million",
+    "https://www.enr.com/articles/63139-construction-quality-startup-structured-ai-raises-42m-seed-round",
+    "https://www.eu-startups.com/2018/11/10-european-startups-protecting-us-from-fake-news-and-data-privacy-breaches/",
+    "https://www.eu-startups.com/2025/09/londons-scindo-raises-e4-5-million-to-accelerate-sustainable-ingredients-platform/",
+    "https://www.eu-startups.com/directory/ami-lab/",
     "https://www.f6s.com/fyld",
     "https://www.facebook.com/CBSSanFrancisco/posts/a-san-francisco-based-company-is-building-homes-using-an-automated-mobile-micro-/1344064154425809/",
     "https://www.facebook.com/Mainfyld/videos/do-you-want-to-join-our-teamwe-are-looking-for-a-data-engineer-with-azure-hybrid/1475877090808530/",
@@ -83,19 +92,32 @@
     "https://www.sciencedirect.com/science/article/abs/pii/S0196890425007885",
     "https://www.simplyhired.com/search?q=android+camera+engineer",
     "https://www.simplyhired.com/search?q=senior+ai+ml+engineer&l=boulder%2C+co",
+    "https://www.startuphub.ai/startups/circular11",
     "https://www.ziprecruiter.com/Jobs/Beyond-Zero-Emissions",
     "https://www.ziprecruiter.com/Jobs/Greenhouse-Data-Engineer/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Mobile-Bank-Data-Scientist/-in-Boulder,CO",
     "https://www.ziprecruiter.com/Jobs/Remote-Smart-Building/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-06-16T18:27:23.305078",
+  "last_run": "2026-06-17T16:55:35.026245",
   "startups": {
+    "ai-powered construction risk analysis platform enlaye": {
+      "first_seen": "2026-06-17T16:55:35.026209",
+      "last_seen": "2026-06-17T16:55:35.026218",
+      "name": "AI-Powered Construction Risk Analysis Platform Enlaye",
+      "source_url": "https://www.enr.com/articles/63134-ai-powered-construction-risk-analysis-platform-enlaye-raises-5-million"
+    },
     "fyld": {
       "first_seen": "2026-04-20T21:53:59.611444",
       "last_seen": "2026-05-23T15:01:45.859933",
       "name": "FYLD",
       "source_url": "https://www.finsmes.com/2026/02/fyld-raises-41m-in-series-b-funding.html#google_vignette"
+    },
+    "uk-based circular11": {
+      "first_seen": "2026-06-17T16:55:21.008799",
+      "last_seen": "2026-06-17T16:55:21.008812",
+      "name": "UK-based Circular11",
+      "source_url": "https://circular11.com/"
     },
     "zero homes": {
       "first_seen": "2026-04-20T21:53:54.422018",
