@@ -31,6 +31,7 @@
     "https://lensa.com/job-v1/zero-homes/remote/senior-mobile-engineer/672f48d2135b2387fa9e37f26df6f059",
     "https://mainfyld.applytojob.com/apply",
     "https://mainfyld.applytojob.com/apply/3325321554457e0c63034552430843585b401434212e7f50533e271b223a72041f7924/Data-Scientist?sid=YJPJfuO5R1tjr9slovKrieNdcmiTlhDKX3g?source=Talent.com",
+    "https://matg.statenweb.com/libweb/UysYEg/2AD066/AiInRiskManagement.pdf",
     "https://natural-resources.canada.ca/corporate/planning-reporting/departmental-results-reports/departmental-results-report-2020-21/2020-21-departmental-results-report",
     "https://techjobsforgood.com/energy-conservation-jobs/",
     "https://tietalent.com/de/jobs/search/senior-ios-app-developer-swiftui-accessibility-first-design-on-device-machine-learning/all",
@@ -88,23 +89,25 @@
     "https://www.linkedin.com/jobs/view/mba-internship-summer-2026-at-zero-homes-4390893558",
     "https://www.linkedin.com/posts/dannypier_zero-homes-jobs-activity-7462945587894583296-8KBI",
     "https://www.linkedin.com/posts/justin-holmes-8612547a_zero-homes-jobs-activity-7462927854595477504-wk5X",
+    "https://www.linkedin.com/posts/langguthmichael_circulareconomy-climatetech-materials-activity-7467238451705315328-pu_L",
     "https://www.meegle.com/en_us/topics/hvac-systems/hvac-system-for-net-zero-homes",
     "https://www.phrc.psu.edu/assets/docs/Publications/2022RBDCCPapers/2022-RBDCC-Proceedings.pdf",
     "https://www.sciencedirect.com/science/article/abs/pii/S0196890425007885",
     "https://www.simplyhired.com/search?q=android+camera+engineer",
     "https://www.simplyhired.com/search?q=senior+ai+ml+engineer&l=boulder%2C+co",
     "https://www.startuphub.ai/startups/circular11",
+    "https://www.vaccination.gov.ng/Resources/72ggnO/277048/ai_technology-in_construction.pdf",
     "https://www.ziprecruiter.com/Jobs/Beyond-Zero-Emissions",
     "https://www.ziprecruiter.com/Jobs/Greenhouse-Data-Engineer/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Mobile-Bank-Data-Scientist/-in-Boulder,CO",
     "https://www.ziprecruiter.com/Jobs/Remote-Smart-Building/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-06-18T16:56:51.329185",
+  "last_run": "2026-06-19T16:31:49.533585",
   "startups": {
     "ai-powered construction risk analysis platform enlaye": {
       "first_seen": "2026-06-17T16:55:35.026209",
-      "last_seen": "2026-06-17T16:55:35.026218",
+      "last_seen": "2026-06-19T16:31:49.533562",
       "name": "AI-Powered Construction Risk Analysis Platform Enlaye",
       "source_url": "https://www.enr.com/articles/63134-ai-powered-construction-risk-analysis-platform-enlaye-raises-5-million"
     },
@@ -116,7 +119,7 @@
     },
     "uk-based circular11": {
       "first_seen": "2026-06-17T16:55:21.008799",
-      "last_seen": "2026-06-18T16:56:45.402722",
+      "last_seen": "2026-06-19T16:31:45.199292",
       "name": "UK-based Circular11",
       "source_url": "https://circular11.com/"
     },
