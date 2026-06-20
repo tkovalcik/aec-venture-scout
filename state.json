@@ -33,6 +33,7 @@
     "https://mainfyld.applytojob.com/apply/3325321554457e0c63034552430843585b401434212e7f50533e271b223a72041f7924/Data-Scientist?sid=YJPJfuO5R1tjr9slovKrieNdcmiTlhDKX3g?source=Talent.com",
     "https://matg.statenweb.com/libweb/UysYEg/2AD066/AiInRiskManagement.pdf",
     "https://natural-resources.canada.ca/corporate/planning-reporting/departmental-results-reports/departmental-results-report-2020-21/2020-21-departmental-results-report",
+    "https://publicreg.vaccination.gov.ng/fulldisplay/72ggnO/277048/ai-technology-in_construction.pdf",
     "https://techjobsforgood.com/energy-conservation-jobs/",
     "https://tietalent.com/de/jobs/search/senior-ios-app-developer-swiftui-accessibility-first-design-on-device-machine-learning/all",
     "https://training.jacksonms.gov/scholarship/xTLZfV/4OK090/ai__technology__in__construction.pdf",
@@ -46,6 +47,7 @@
     "https://www.b2match.com/e/innovate-uk-futurebuild-connects-1/components/57916",
     "https://www.b2match.com/e/innovate-uk-futurebuild-connects-1/components/57916?participantFilters=%7B%22userCountryIds%22%3A%5B227%5D%7D",
     "https://www.cemexventures.com/",
+    "https://www.cemexventures.com/constructionstartupcompetition/",
     "https://www.cemexventures.com/top-50-startups/fyld/",
     "https://www.enr.com/articles/63134-ai-powered-construction-risk-analysis-platform-enlaye-raises-5-million",
     "https://www.enr.com/articles/63139-construction-quality-startup-structured-ai-raises-42m-seed-round",
@@ -103,11 +105,11 @@
     "https://www.ziprecruiter.com/Jobs/Remote-Smart-Building/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-06-19T16:31:49.533585",
+  "last_run": "2026-06-20T15:45:46.234177",
   "startups": {
     "ai-powered construction risk analysis platform enlaye": {
       "first_seen": "2026-06-17T16:55:35.026209",
-      "last_seen": "2026-06-19T16:31:49.533562",
+      "last_seen": "2026-06-20T15:45:46.234148",
       "name": "AI-Powered Construction Risk Analysis Platform Enlaye",
       "source_url": "https://www.enr.com/articles/63134-ai-powered-construction-risk-analysis-platform-enlaye-raises-5-million"
     },
@@ -119,7 +121,7 @@
     },
     "uk-based circular11": {
       "first_seen": "2026-06-17T16:55:21.008799",
-      "last_seen": "2026-06-19T16:31:45.199292",
+      "last_seen": "2026-06-20T15:45:38.722723",
       "name": "UK-based Circular11",
       "source_url": "https://circular11.com/"
     },
