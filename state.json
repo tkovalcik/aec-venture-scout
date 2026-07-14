@@ -10,6 +10,7 @@
     "https://bebee.com/ca/jobs/senior-data-engineer-copia-wealth-studios--theirstack-690330749",
     "https://bebeez.eu/2024/02/09/uk-based-lilli-secures-over-e9-5-million-to-help-people-to-live-safely-and-independently-in-their-homes-for-longer/",
     "https://bravotarget.ca/bravo-fyld/",
+    "https://builtin.com/company/copia-automation/jobs",
     "https://builtin.com/company/fyld/jobs",
     "https://builtin.com/job/data-engineer-azure/6197459",
     "https://builtin.com/job/data-scientist/4460856",
@@ -53,6 +54,7 @@
     "https://training.jacksonms.gov/scholarship/xTLZfV/4OK090/ai__technology__in__construction.pdf",
     "https://uk.linkedin.com/in/bewill",
     "https://vaccination.gov.ng/book-search/xTLZfV/4S9090/ai__technology-in__construction.pdf",
+    "https://via.ritzau.dk/pressemeddelelse/13202619/cqn-h3-dynamics?publisherId=90456",
     "https://workingreen.jobs/offers/robotic-engineer-at-mighty-buildings-oakland",
     "https://workingreen.jobs/offers/senior-machine-learning-engineer-at-icon-austin-texas-united-states",
     "https://workingreen.jobs/offers/senior-machine-learning-engineer-i-at-icon-remote",
@@ -61,6 +63,7 @@
     "https://www.atkinsrealis.com/en/media/trade-releases/2025/2025-06-02",
     "https://www.b2match.com/e/innovate-uk-futurebuild-connects-1/components/57916",
     "https://www.b2match.com/e/innovate-uk-futurebuild-connects-1/components/57916?participantFilters=%7B%22userCountryIds%22%3A%5B227%5D%7D",
+    "https://www.builtinnyc.com/company/copia-automation/jobs",
     "https://www.cemexventures.com/",
     "https://www.cemexventures.com/constructionstartupcompetition/",
     "https://www.cemexventures.com/leaplab/",
@@ -78,6 +81,7 @@
     "https://www.facebook.com/CBSSanFrancisco/posts/a-san-francisco-based-company-is-building-homes-using-an-automated-mobile-micro-/1344064154425809/",
     "https://www.facebook.com/Mainfyld/videos/do-you-want-to-join-our-teamwe-are-looking-for-a-data-engineer-with-azure-hybrid/1475877090808530/",
     "https://www.facebook.com/Mainfyld/videos/do-you-want-to-join-our-teamwe-are-looking-for-an-angular-developer-based-with-f/1258743706360105/",
+    "https://www.facebook.com/techinasia/posts/-with-aging-infrastructure-posing-global-safety-risks-h3-zoom-is-helping-develop/1428046712691664/",
     "https://www.fyld.pt/job-apply/2e84dc51a8/data-engineer-azure/",
     "https://www.getonbrd.com/jobs/machine-learning-ai/senior-data-scientist-us-office-artefact-latam-remote",
     "https://www.glassdoor.ca/Job/denver-co-zero-homes-jobs-SRCH_IL.0,9_IC1148170_KO10,20.htm",
@@ -108,6 +112,7 @@
     "https://www.instagram.com/reel/DXC-4SMDyd_/",
     "https://www.instagram.com/reel/DXHjXSAlXt_/",
     "https://www.ivoryinnovations.org/post/2023-ivory-prize-top-25",
+    "https://www.levels.fyi/companies/copia-scientific/jobs",
     "https://www.linkedin.com/company/fyld",
     "https://www.linkedin.com/in/dean-a-howard",
     "https://www.linkedin.com/jobs/data-engineer-manager-jobs",
@@ -127,14 +132,16 @@
     "https://www.simplyhired.com/search?q=senior+ai+ml+engineer&l=boulder%2C+co",
     "https://www.startuphub.ai/startups/circular11",
     "https://www.suasnews.com/2020/09/flight-of-the-inspection-drones-one-start-ups-crazy-idea-to-disrupt-building-inspections-with-tech/",
+    "https://www.supplycopia.com/careers/",
     "https://www.vaccination.gov.ng/Resources/72ggnO/277048/ai_technology-in_construction.pdf",
+    "https://www.welcometothejungle.com/en/companies/copia-automation/jobs/engineering-manager-applied-ai_new-york_o6wqjoxk",
     "https://www.ziprecruiter.com/Jobs/Beyond-Zero-Emissions",
     "https://www.ziprecruiter.com/Jobs/Greenhouse-Data-Engineer/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Mobile-Bank-Data-Scientist/-in-Boulder,CO",
     "https://www.ziprecruiter.com/Jobs/Remote-Smart-Building/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-07-13T16:34:33.760504",
+  "last_run": "2026-07-14T15:24:48.561709",
   "startups": {
     "ai-powered construction risk analysis platform enlaye": {
       "first_seen": "2026-06-17T16:55:35.026209",
@@ -144,7 +151,7 @@
     },
     "copia": {
       "first_seen": "2026-07-06T16:52:34.058766",
-      "last_seen": "2026-07-13T16:34:21.554035",
+      "last_seen": "2026-07-14T15:24:31.489485",
       "name": "Copia",
       "source_url": "https://copia.io/"
     },
@@ -156,7 +163,7 @@
     },
     "h3 zoom": {
       "first_seen": "2026-07-06T16:52:58.678224",
-      "last_seen": "2026-07-13T16:34:33.760445",
+      "last_seen": "2026-07-14T15:24:48.561674",
       "name": "H3 Zoom",
       "source_url": "https://www.h3zoom.ai/"
     },
