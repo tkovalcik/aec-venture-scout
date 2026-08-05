@@ -11,6 +11,7 @@
     "https://be.linkedin.com/jobs/view/data-engineer-french-speaking-at-fyld-4374805344",
     "https://bebee.com/ca/jobs/senior-data-engineer-copia-wealth-studios--theirstack-690330749",
     "https://bebee.com/sg/jobs/enterprise-sales-lead-h3-zoom--t7xk-764928107",
+    "https://bebee.com/sg/jobs/enterprise-sales-lead-h3-zoom--talent-628434899507883272",
     "https://bebee.com/sg/jobs/enterprise-sales-lead-h3-zoom--talent-628544496733784876",
     "https://bebee.com/us/jobs/remote-oncology-data-engineer-precision-medicine-dallas-tx-us-oncology-dallas--lensa-7428_310fb4b43f5c093a4c8b5fd3b0abe96f3ac2dd575bd88e6b6ed3aaa9d5dc6593",
     "https://bebeez.eu/2024/02/09/uk-based-lilli-secures-over-e9-5-million-to-help-people-to-live-safely-and-independently-in-their-homes-for-longer/",
@@ -58,6 +59,7 @@
     "https://natural-resources.canada.ca/corporate/planning-reporting/departmental-results-reports/departmental-results-report-2020-21/2020-21-departmental-results-report",
     "https://publicreg.vaccination.gov.ng/fulldisplay/72ggnO/277048/ai-technology-in_construction.pdf",
     "https://remoteok.com/remote-jobs/remote-lead-security-engineer-copia-automation-1130876",
+    "https://sg.jobstreet.com/data-engineering-jobs/in-People's-Park-Central-Region/full-time",
     "https://sg.jobstreet.com/data-scientist-lead-data-scientist-jobs/in-Central-Region/full-time",
     "https://sg.jobstreet.com/lead-data-engineer-jobs/in-Downtown-Core-Central-Region",
     "https://sg.linkedin.com/company/h3zoom",
@@ -149,6 +151,7 @@
     "https://www.linkedin.com/jobs/electrify-america-jobs",
     "https://www.linkedin.com/jobs/view/mba-internship-summer-2026-at-zero-homes-4390893558",
     "https://www.linkedin.com/jobs/view/remote-oncology-data-engineer-precision-medicine-dallas-tx-at-the-us-oncology-network-4410789354",
+    "https://www.linkedin.com/posts/activity-7475232359743848449-WT19",
     "https://www.linkedin.com/posts/dannypier_zero-homes-jobs-activity-7462945587894583296-8KBI",
     "https://www.linkedin.com/posts/justin-holmes-8612547a_zero-homes-jobs-activity-7462927854595477504-wk5X",
     "https://www.linkedin.com/posts/langguthmichael_circulareconomy-climatetech-materials-activity-7467238451705315328-pu_L",
@@ -170,7 +173,7 @@
     "https://www.ziprecruiter.com/Jobs/Remote-Smart-Building/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-08-04T16:12:13.105634",
+  "last_run": "2026-08-05T16:01:28.058083",
   "startups": {
     "ai-powered construction risk analysis platform enlaye": {
       "first_seen": "2026-06-17T16:55:35.026209",
@@ -192,7 +195,7 @@
     },
     "h3 zoom": {
       "first_seen": "2026-07-06T16:52:58.678224",
-      "last_seen": "2026-08-04T16:12:13.105600",
+      "last_seen": "2026-08-05T16:01:28.058045",
       "name": "H3 Zoom",
       "source_url": "https://www.h3zoom.ai/"
     },
