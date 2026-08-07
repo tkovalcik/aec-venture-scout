@@ -12,8 +12,10 @@
     "https://bebee.com/ca/jobs/senior-data-engineer-copia-wealth-studios--theirstack-690330749",
     "https://bebee.com/sg/jobs/enterprise-sales-lead-h3-zoom--t7xk-764928107",
     "https://bebee.com/sg/jobs/enterprise-sales-lead-h3-zoom--talent-628434899507883272",
+    "https://bebee.com/sg/jobs/enterprise-sales-lead-h3-zoom--talent-628434925868944172",
     "https://bebee.com/sg/jobs/enterprise-sales-lead-h3-zoom--talent-628544496733784876",
     "https://bebee.com/us/jobs/remote-oncology-data-engineer-precision-medicine-dallas-tx-us-oncology-dallas--lensa-7428_310fb4b43f5c093a4c8b5fd3b0abe96f3ac2dd575bd88e6b6ed3aaa9d5dc6593",
+    "https://bebee.com/us/jobs/remote-oncology-data-engineer-precision-medicine-dallas-tx-us-oncology-inc-dallas-tx--jooble-210857888235343433",
     "https://bebeez.eu/2024/02/09/uk-based-lilli-secures-over-e9-5-million-to-help-people-to-live-safely-and-independently-in-their-homes-for-longer/",
     "https://bravotarget.ca/bravo-fyld/",
     "https://builtin.com/company/copia-automation/jobs",
@@ -26,6 +28,7 @@
     "https://careers.lilly.com/it/it/job/R-103720/Scientific-Lead-Scientific-Data-Engineer",
     "https://careers.powerhouse-ventures.co/",
     "https://careers.usoncology.com/main/jobs/39271?lang=en-us",
+    "https://careers.usoncology.com/main/jobs/39271?lang\\u003den-us",
     "https://climatebase.org/job/56578005/sr-software-engineer-mobile",
     "https://climatebase.org/job/71844953/senior-mobile-engineer",
     "https://dpii.morelia.tecnm.mx/Resources/72ggnO/277048/ai_technology__in__construction.pdf",
@@ -66,6 +69,7 @@
     "https://sg.linkedin.com/jobs/view/senior-ai-data-engineer-at-h3-zoom-4378492506",
     "https://sg.linkedin.com/jobs/view/senior-ai-data-engineer-at-h3-zoom-ai-4378492506",
     "https://t.me/s/remotedevjobs/4256?q=%23computervision",
+    "https://t.me/s/remotedevjobs/4256?q\\u003d%23computervision",
     "https://talent.squadra.vc/jobs",
     "https://techintelpro.com/IT-%26-Networking/Hardware-%26-Devices/h3-zoom-raises-36m-series-a-to-scale-ai-inspection-platform",
     "https://techjobsforgood.com/energy-conservation-jobs/",
@@ -173,7 +177,7 @@
     "https://www.ziprecruiter.com/Jobs/Remote-Smart-Building/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-08-05T16:01:28.058083",
+  "last_run": "2026-08-07T14:53:05.303530",
   "startups": {
     "ai-powered construction risk analysis platform enlaye": {
       "first_seen": "2026-06-17T16:55:35.026209",
@@ -183,7 +187,7 @@
     },
     "copia": {
       "first_seen": "2026-07-06T16:52:34.058766",
-      "last_seen": "2026-08-04T16:12:03.090911",
+      "last_seen": "2026-08-07T14:53:02.471690",
       "name": "Copia",
       "source_url": "https://copia.io/"
     },
@@ -195,7 +199,7 @@
     },
     "h3 zoom": {
       "first_seen": "2026-07-06T16:52:58.678224",
-      "last_seen": "2026-08-05T16:01:28.058045",
+      "last_seen": "2026-08-07T14:53:05.303488",
       "name": "H3 Zoom",
       "source_url": "https://www.h3zoom.ai/"
     },
