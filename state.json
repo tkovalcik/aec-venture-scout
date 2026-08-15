@@ -38,6 +38,7 @@
     "https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/former-websites/2021/wp-content/uploads/2021/09/At-a-glance_ECMLPKDD.pdf",
     "https://experimentationjobs.com/united-states/",
     "https://finance.yahoo.com/technology/ai/articles/h3-zoom-closes-oversubscribed-usd-080400594.html",
+    "https://flexboard.9y.liveblog365.com/job/2637926",
     "https://fyld.ai/account-executive-us",
     "https://fyld.ai/backend-software-engineer-django",
     "https://fyld.ai/civil-engineers",
@@ -66,6 +67,7 @@
     "https://natural-resources.canada.ca/corporate/planning-reporting/departmental-results-reports/departmental-results-report-2020-21/2020-21-departmental-results-report",
     "https://publicreg.vaccination.gov.ng/fulldisplay/72ggnO/277048/ai-technology-in_construction.pdf",
     "https://remoteok.com/remote-jobs/remote-lead-security-engineer-copia-automation-1130876",
+    "https://sg.indeed.com/q-django-l-outram-jobs.html",
     "https://sg.jobstreet.com/data-engineering-jobs/in-People's-Park-Central-Region/full-time",
     "https://sg.jobstreet.com/data-scientist-lead-data-scientist-jobs/in-Central-Region/full-time",
     "https://sg.jobstreet.com/lead-data-engineer-jobs/in-Downtown-Core-Central-Region",
@@ -185,7 +187,7 @@
     "https://www.ziprecruiter.com/Jobs/Remote-Smart-Building/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-08-14T14:52:47.828422",
+  "last_run": "2026-08-15T14:23:10.657017",
   "startups": {
     "ai-powered construction risk analysis platform enlaye": {
       "first_seen": "2026-06-17T16:55:35.026209",
@@ -195,7 +197,7 @@
     },
     "copia": {
       "first_seen": "2026-07-06T16:52:34.058766",
-      "last_seen": "2026-08-14T14:52:14.693476",
+      "last_seen": "2026-08-15T14:22:50.546198",
       "name": "Copia",
       "source_url": "https://copia.io/"
     },
@@ -207,7 +209,7 @@
     },
     "h3 zoom": {
       "first_seen": "2026-07-06T16:52:58.678224",
-      "last_seen": "2026-08-12T14:57:37.278328",
+      "last_seen": "2026-08-15T14:23:10.656973",
       "name": "H3 Zoom",
       "source_url": "https://www.h3zoom.ai/"
     },
