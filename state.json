@@ -17,6 +17,7 @@
     "https://bebee.com/sg/jobs/enterprise-sales-lead-h3-zoom-central-singapore-community-development-council--jobmesh-6284e536-ab54-4ef2-acbb-cd37fa08db79",
     "https://bebee.com/us/jobs/remote-oncology-data-engineer-precision-medicine-dallas-tx-us-oncology-dallas--lensa-7428_310fb4b43f5c093a4c8b5fd3b0abe96f3ac2dd575bd88e6b6ed3aaa9d5dc6593",
     "https://bebee.com/us/jobs/remote-oncology-data-engineer-precision-medicine-dallas-tx-us-oncology-inc-dallas--pureheal-28528_23106_a664f49cc721baad0854b3f8c865092e",
+    "https://bebee.com/us/jobs/remote-oncology-data-engineer-precision-medicine-dallas-tx-us-oncology-inc-dallas-tx--jooble--1841912379512414058",
     "https://bebee.com/us/jobs/remote-oncology-data-engineer-precision-medicine-dallas-tx-us-oncology-inc-dallas-tx--jooble-210857888235343433",
     "https://bebeez.eu/2024/02/09/uk-based-lilli-secures-over-e9-5-million-to-help-people-to-live-safely-and-independently-in-their-homes-for-longer/",
     "https://bravotarget.ca/bravo-fyld/",
@@ -119,6 +120,7 @@
     "https://www.facebook.com/Mainfyld/videos/do-you-want-to-join-our-teamwe-are-looking-for-an-angular-developer-based-with-f/1258743706360105/",
     "https://www.facebook.com/techinasia/posts/-with-aging-infrastructure-posing-global-safety-risks-h3-zoom-is-helping-develop/1428046712691664/",
     "https://www.foundit.sg/job/ai-and-data-engineering-lead-h3-zoom-pte-ltd-singapore-43762197",
+    "https://www.foundit.sg/job/senior-ai-amp-data-engineer-h3-zoom-ai-singapore-46899133",
     "https://www.fyld.pt/job-apply/2e84dc51a8/data-engineer-azure/",
     "https://www.getonbrd.com/jobs/data-science-analytics/data-engineer-artefact-latam-remote",
     "https://www.getonbrd.com/jobs/machine-learning-ai/senior-data-scientist-us-office-artefact-latam-remote",
@@ -197,7 +199,7 @@
     "https://www.ziprecruiter.com/Jobs/Remote-Smart-Building/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-08-25T14:45:11.275021",
+  "last_run": "2026-08-26T14:44:16.352264",
   "startups": {
     "ai-powered construction risk analysis platform enlaye": {
       "first_seen": "2026-06-17T16:55:35.026209",
@@ -207,7 +209,7 @@
     },
     "copia": {
       "first_seen": "2026-07-06T16:52:34.058766",
-      "last_seen": "2026-08-23T14:23:20.246214",
+      "last_seen": "2026-08-26T14:44:01.080698",
       "name": "Copia",
       "source_url": "https://copia.io/"
     },
@@ -219,7 +221,7 @@
     },
     "h3 zoom": {
       "first_seen": "2026-07-06T16:52:58.678224",
-      "last_seen": "2026-08-24T14:42:35.480486",
+      "last_seen": "2026-08-26T14:44:16.352218",
       "name": "H3 Zoom",
       "source_url": "https://www.h3zoom.ai/"
     },
