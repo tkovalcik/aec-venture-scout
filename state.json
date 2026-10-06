@@ -59,6 +59,7 @@
     "https://careers.zimmerbiomet.com/it/it/job/12041/Data-Engineer",
     "https://climatebase.org/job/56578005/sr-software-engineer-mobile",
     "https://climatebase.org/job/71844953/senior-mobile-engineer",
+    "https://constructionexec.com/article/a-new-vision-for-ai-construction-design-review-platform-lends-extra-eye-to-image-analysis/",
     "https://datatech.disruptsmedia.com/ai-ml/buildcheck-raises-12m-series-ai-powered-drawing-review",
     "https://dl.acm.org/doi/pdf/10.1109/SC41406.2024.00090",
     "https://docs.redhat.com/it/documentation/openshift_container_platform/4.7/html/support/remote-health-monitoring-with-connected-clusters",
@@ -111,6 +112,7 @@
     "https://publicreg.vaccination.gov.ng/fulldisplay/72ggnO/277048/ai-technology-in_construction.pdf",
     "https://pypi.org/project/pyspark/",
     "https://remoteok.com/remote-jobs/remote-lead-security-engineer-copia-automation-1130876",
+    "https://seedtable.com/companies/buildcheck-ai",
     "https://sg.indeed.com/Three-Js-jobs",
     "https://sg.indeed.com/q-django-l-harbourfront-avenue-jobs.html",
     "https://sg.indeed.com/q-django-l-museum-jobs.html",
@@ -258,6 +260,7 @@
     "https://www.linkedin.com/posts/activity-7475232359743848449-WT19",
     "https://www.linkedin.com/posts/arabfounders-%D8%B9%D8%B1%D8%A8-%D9%81%D8%A7%D9%88%D9%86%D8%AF%D8%B1%D8%B2_h3zoom-deeptech-artificialintelligence-activity-7475570964689440769-mVDZ",
     "https://www.linkedin.com/posts/boostnoi_proptech-contech-aiinconstruction-activity-7404585795925409792-jmkF",
+    "https://www.linkedin.com/posts/buildcheck-ai_meet-the-2026-c100-fellows-cohort-activity-7396980646704762880-nV2J",
     "https://www.linkedin.com/posts/centerforinnovation_pre-constructions-wild-west-bringing-context-activity-7490379776587649024-7u0v",
     "https://www.linkedin.com/posts/dannypier_zero-homes-jobs-activity-7462945587894583296-8KBI",
     "https://www.linkedin.com/posts/donald-james-jr-70906a2_bearclouds-global-reach-installations-in-activity-7482799338524438528-a2ax",
@@ -295,7 +298,7 @@
     "https://www.ziprecruiter.com/Jobs/Remote-Smart-Building/--in-Colorado",
     "https://www.ziprecruiter.com/Jobs/Senior-Building-Decarbonization"
   ],
-  "last_run": "2026-10-05T21:23:13.630194",
+  "last_run": "2026-10-06T19:20:07.739230",
   "startups": {
     "ai-powered construction risk analysis platform enlaye": {
       "first_seen": "2026-06-17T16:55:35.026209",
@@ -305,7 +308,7 @@
     },
     "buildcheck": {
       "first_seen": "2026-09-28T20:24:45.816437",
-      "last_seen": "2026-10-05T21:23:13.630141",
+      "last_seen": "2026-10-06T19:20:07.739151",
       "name": "Buildcheck",
       "source_url": "https://www.globenewswire.com/Tracker?data=Otx1LZrs9pseKTi4uU6h_EfHlZAFtmxluOpvsHh5Z7zVDJ8VCpR1vO74le-hcAHsp__-HOyc5MRD9CBYYrsh3m2Rn0EyMjQNU7Au-UHLk5TuSr6nf3I10xIyN-pVYJFeuT3_vIVKTc0n5rJHa9a4G5bMSziy5MaGzPvaDoFZLrM="
     },
